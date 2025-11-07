@@ -1,0 +1,16 @@
+D:\Programação\Vs studio\Lista C# Modo Gráfico\bin\Debug\net9.0-windows\Lista C# Modo Gráfico.exe
+D:\Programação\Vs studio\Lista C# Modo Gráfico\bin\Debug\net9.0-windows\Lista C# Modo Gráfico.deps.json
+D:\Programação\Vs studio\Lista C# Modo Gráfico\bin\Debug\net9.0-windows\Lista C# Modo Gráfico.runtimeconfig.json
+D:\Programação\Vs studio\Lista C# Modo Gráfico\bin\Debug\net9.0-windows\Lista C# Modo Gráfico.dll
+D:\Programação\Vs studio\Lista C# Modo Gráfico\bin\Debug\net9.0-windows\Lista C# Modo Gráfico.pdb
+D:\Programação\Vs studio\Lista C# Modo Gráfico\obj\Debug\net9.0-windows\Lista_C__Modo_Gráfico.Form1.resources
+D:\Programação\Vs studio\Lista C# Modo Gráfico\obj\Debug\net9.0-windows\Lista C# Modo Gráfico.csproj.GenerateResource.cache
+D:\Programação\Vs studio\Lista C# Modo Gráfico\obj\Debug\net9.0-windows\Lista C# Modo Gráfico.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Vs studio\Lista C# Modo Gráfico\obj\Debug\net9.0-windows\Lista C# Modo Gráfico.AssemblyInfoInputs.cache
+D:\Programação\Vs studio\Lista C# Modo Gráfico\obj\Debug\net9.0-windows\Lista C# Modo Gráfico.AssemblyInfo.cs
+D:\Programação\Vs studio\Lista C# Modo Gráfico\obj\Debug\net9.0-windows\Lista C# Modo Gráfico.csproj.CoreCompileInputs.cache
+D:\Programação\Vs studio\Lista C# Modo Gráfico\obj\Debug\net9.0-windows\Lista C# Modo Gráfico.dll
+D:\Programação\Vs studio\Lista C# Modo Gráfico\obj\Debug\net9.0-windows\refint\Lista C# Modo Gráfico.dll
+D:\Programação\Vs studio\Lista C# Modo Gráfico\obj\Debug\net9.0-windows\Lista C# Modo Gráfico.pdb
+D:\Programação\Vs studio\Lista C# Modo Gráfico\obj\Debug\net9.0-windows\Lista C# Modo Gráfico.genruntimeconfig.cache
+D:\Programação\Vs studio\Lista C# Modo Gráfico\obj\Debug\net9.0-windows\ref\Lista C# Modo Gráfico.dll

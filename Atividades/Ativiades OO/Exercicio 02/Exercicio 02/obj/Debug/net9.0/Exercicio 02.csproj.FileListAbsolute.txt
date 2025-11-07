@@ -1,0 +1,14 @@
+D:\Programacao\C#\Atividades\Ativiades OO\Exercicio 02\Exercicio 02\obj\Debug\net9.0\Exercicio 02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacao\C#\Atividades\Ativiades OO\Exercicio 02\Exercicio 02\obj\Debug\net9.0\Exercicio 02.AssemblyInfoInputs.cache
+D:\Programacao\C#\Atividades\Ativiades OO\Exercicio 02\Exercicio 02\obj\Debug\net9.0\Exercicio 02.AssemblyInfo.cs
+D:\Programacao\C#\Atividades\Ativiades OO\Exercicio 02\Exercicio 02\obj\Debug\net9.0\Exercicio 02.csproj.CoreCompileInputs.cache
+D:\Programacao\C#\Atividades\Ativiades OO\Exercicio 02\Exercicio 02\bin\Debug\net9.0\Exercicio 02.exe
+D:\Programacao\C#\Atividades\Ativiades OO\Exercicio 02\Exercicio 02\bin\Debug\net9.0\Exercicio 02.deps.json
+D:\Programacao\C#\Atividades\Ativiades OO\Exercicio 02\Exercicio 02\bin\Debug\net9.0\Exercicio 02.runtimeconfig.json
+D:\Programacao\C#\Atividades\Ativiades OO\Exercicio 02\Exercicio 02\bin\Debug\net9.0\Exercicio 02.dll
+D:\Programacao\C#\Atividades\Ativiades OO\Exercicio 02\Exercicio 02\bin\Debug\net9.0\Exercicio 02.pdb
+D:\Programacao\C#\Atividades\Ativiades OO\Exercicio 02\Exercicio 02\obj\Debug\net9.0\Exercicio 02.dll
+D:\Programacao\C#\Atividades\Ativiades OO\Exercicio 02\Exercicio 02\obj\Debug\net9.0\refint\Exercicio 02.dll
+D:\Programacao\C#\Atividades\Ativiades OO\Exercicio 02\Exercicio 02\obj\Debug\net9.0\Exercicio 02.pdb
+D:\Programacao\C#\Atividades\Ativiades OO\Exercicio 02\Exercicio 02\obj\Debug\net9.0\Exercicio 02.genruntimeconfig.cache
+D:\Programacao\C#\Atividades\Ativiades OO\Exercicio 02\Exercicio 02\obj\Debug\net9.0\ref\Exercicio 02.dll

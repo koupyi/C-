@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programacao\\C#\\Aula 28_08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D985A19-AF80-46FA-9A54-13A2E950E23D}|Aula 28_08\\Aula 28_08.csproj|d:\\programacao\\c#\\aula 28_08\\aula 28_08\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D985A19-AF80-46FA-9A54-13A2E950E23D}|Aula 28_08\\Aula 28_08.csproj|solutionrelative:aula 28_08\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D985A19-AF80-46FA-9A54-13A2E950E23D}|Aula 28_08\\Aula 28_08.csproj|d:\\programacao\\c#\\aula 28_08\\aula 28_08\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D985A19-AF80-46FA-9A54-13A2E950E23D}|Aula 28_08\\Aula 28_08.csproj|solutionrelative:aula 28_08\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D985A19-AF80-46FA-9A54-13A2E950E23D}|Aula 28_08\\Aula 28_08.csproj|d:\\programacao\\c#\\aula 28_08\\aula 28_08\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D985A19-AF80-46FA-9A54-13A2E950E23D}|Aula 28_08\\Aula 28_08.csproj|solutionrelative:aula 28_08\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Projeto]",
+              "DocumentMoniker": "D:\\Programacao\\C#\\Aula 28_08\\Aula 28_08\\Form2.cs",
+              "RelativeDocumentMoniker": "Aula 28_08\\Form2.cs",
+              "ToolTip": "D:\\Programacao\\C#\\Aula 28_08\\Aula 28_08\\Form2.cs [Projeto]",
+              "RelativeToolTip": "Aula 28_08\\Form2.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:08:26.149Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Programacao\\C#\\Aula 28_08\\Aula 28_08\\Form1.cs",
+              "RelativeDocumentMoniker": "Aula 28_08\\Form1.cs",
+              "ToolTip": "D:\\Programacao\\C#\\Aula 28_08\\Aula 28_08\\Form1.cs",
+              "RelativeToolTip": "Aula 28_08\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:59:31.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "D:\\Programacao\\C#\\Aula 28_08\\Aula 28_08\\Form1.cs",
+              "RelativeDocumentMoniker": "Aula 28_08\\Form1.cs",
+              "ToolTip": "D:\\Programacao\\C#\\Aula 28_08\\Aula 28_08\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Aula 28_08\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:57:46.265Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

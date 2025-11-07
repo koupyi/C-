@@ -1,0 +1,16 @@
+D:\Programação\C#\Relogio\Relogio\bin\Debug\net9.0-windows\Relogio.exe
+D:\Programação\C#\Relogio\Relogio\bin\Debug\net9.0-windows\Relogio.deps.json
+D:\Programação\C#\Relogio\Relogio\bin\Debug\net9.0-windows\Relogio.runtimeconfig.json
+D:\Programação\C#\Relogio\Relogio\bin\Debug\net9.0-windows\Relogio.dll
+D:\Programação\C#\Relogio\Relogio\bin\Debug\net9.0-windows\Relogio.pdb
+D:\Programação\C#\Relogio\Relogio\obj\Debug\net9.0-windows\Relogio.Form1.resources
+D:\Programação\C#\Relogio\Relogio\obj\Debug\net9.0-windows\Relogio.csproj.GenerateResource.cache
+D:\Programação\C#\Relogio\Relogio\obj\Debug\net9.0-windows\Relogio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\C#\Relogio\Relogio\obj\Debug\net9.0-windows\Relogio.AssemblyInfoInputs.cache
+D:\Programação\C#\Relogio\Relogio\obj\Debug\net9.0-windows\Relogio.AssemblyInfo.cs
+D:\Programação\C#\Relogio\Relogio\obj\Debug\net9.0-windows\Relogio.csproj.CoreCompileInputs.cache
+D:\Programação\C#\Relogio\Relogio\obj\Debug\net9.0-windows\Relogio.dll
+D:\Programação\C#\Relogio\Relogio\obj\Debug\net9.0-windows\refint\Relogio.dll
+D:\Programação\C#\Relogio\Relogio\obj\Debug\net9.0-windows\Relogio.pdb
+D:\Programação\C#\Relogio\Relogio\obj\Debug\net9.0-windows\Relogio.genruntimeconfig.cache
+D:\Programação\C#\Relogio\Relogio\obj\Debug\net9.0-windows\ref\Relogio.dll

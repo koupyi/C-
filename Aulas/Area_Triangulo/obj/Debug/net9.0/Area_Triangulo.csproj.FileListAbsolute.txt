@@ -1,0 +1,14 @@
+D:\Programacao\C#\Area_Triangulo\obj\Debug\net9.0\Area_Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacao\C#\Area_Triangulo\obj\Debug\net9.0\Area_Triangulo.AssemblyInfoInputs.cache
+D:\Programacao\C#\Area_Triangulo\obj\Debug\net9.0\Area_Triangulo.AssemblyInfo.cs
+D:\Programacao\C#\Area_Triangulo\obj\Debug\net9.0\Area_Triangulo.csproj.CoreCompileInputs.cache
+D:\Programacao\C#\Area_Triangulo\bin\Debug\net9.0\Area_Triangulo.exe
+D:\Programacao\C#\Area_Triangulo\bin\Debug\net9.0\Area_Triangulo.deps.json
+D:\Programacao\C#\Area_Triangulo\bin\Debug\net9.0\Area_Triangulo.runtimeconfig.json
+D:\Programacao\C#\Area_Triangulo\bin\Debug\net9.0\Area_Triangulo.dll
+D:\Programacao\C#\Area_Triangulo\bin\Debug\net9.0\Area_Triangulo.pdb
+D:\Programacao\C#\Area_Triangulo\obj\Debug\net9.0\Area_Triangulo.dll
+D:\Programacao\C#\Area_Triangulo\obj\Debug\net9.0\refint\Area_Triangulo.dll
+D:\Programacao\C#\Area_Triangulo\obj\Debug\net9.0\Area_Triangulo.pdb
+D:\Programacao\C#\Area_Triangulo\obj\Debug\net9.0\Area_Triangulo.genruntimeconfig.cache
+D:\Programacao\C#\Area_Triangulo\obj\Debug\net9.0\ref\Area_Triangulo.dll

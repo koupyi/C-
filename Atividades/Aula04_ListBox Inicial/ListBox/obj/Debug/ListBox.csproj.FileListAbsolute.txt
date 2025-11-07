@@ -1,0 +1,32 @@
+C:\Users\ricdo\source\repos\Etec Itu\Aula 01\Aula 05\Exemplo 04 - IMC\ListBox\ListBox\bin\Debug\ListBox.exe.config
+C:\Users\ricdo\source\repos\Etec Itu\Aula 01\Aula 05\Exemplo 04 - IMC\ListBox\ListBox\bin\Debug\ListBox.exe
+C:\Users\ricdo\source\repos\Etec Itu\Aula 01\Aula 05\Exemplo 04 - IMC\ListBox\ListBox\bin\Debug\ListBox.pdb
+C:\Users\ricdo\source\repos\Etec Itu\Aula 01\Aula 05\Exemplo 04 - IMC\ListBox\ListBox\obj\Debug\ListBox.csproj.AssemblyReference.cache
+C:\Users\ricdo\source\repos\Etec Itu\Aula 01\Aula 05\Exemplo 04 - IMC\ListBox\ListBox\obj\Debug\ListBox.Form1.resources
+C:\Users\ricdo\source\repos\Etec Itu\Aula 01\Aula 05\Exemplo 04 - IMC\ListBox\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+C:\Users\ricdo\source\repos\Etec Itu\Aula 01\Aula 05\Exemplo 04 - IMC\ListBox\ListBox\obj\Debug\ListBox.csproj.GenerateResource.cache
+C:\Users\ricdo\source\repos\Etec Itu\Aula 01\Aula 05\Exemplo 04 - IMC\ListBox\ListBox\obj\Debug\ListBox.csproj.CoreCompileInputs.cache
+C:\Users\ricdo\source\repos\Etec Itu\Aula 01\Aula 05\Exemplo 04 - IMC\ListBox\ListBox\obj\Debug\ListBox.exe
+C:\Users\ricdo\source\repos\Etec Itu\Aula 01\Aula 05\Exemplo 04 - IMC\ListBox\ListBox\obj\Debug\ListBox.pdb
+C:\Users\ricdo\OneDrive\Desktop\C# Aulas\Aula04_ListBox Inicial\ListBox\bin\Debug\ListBox.exe.config
+C:\Users\ricdo\OneDrive\Desktop\C# Aulas\Aula04_ListBox Inicial\ListBox\bin\Debug\ListBox.exe
+C:\Users\ricdo\OneDrive\Desktop\C# Aulas\Aula04_ListBox Inicial\ListBox\bin\Debug\ListBox.pdb
+C:\Users\ricdo\OneDrive\Desktop\C# Aulas\Aula04_ListBox Inicial\ListBox\obj\Debug\ListBox.csproj.AssemblyReference.cache
+C:\Users\ricdo\OneDrive\Desktop\C# Aulas\Aula04_ListBox Inicial\ListBox\obj\Debug\ListBox.exe.config
+C:\Users\ricdo\OneDrive\Desktop\C# Aulas\Aula04_ListBox Inicial\ListBox\obj\Debug\ListBox.Form1.resources
+C:\Users\ricdo\OneDrive\Desktop\C# Aulas\Aula04_ListBox Inicial\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+C:\Users\ricdo\OneDrive\Desktop\C# Aulas\Aula04_ListBox Inicial\ListBox\obj\Debug\ListBox.csproj.GenerateResource.cache
+C:\Users\ricdo\OneDrive\Desktop\C# Aulas\Aula04_ListBox Inicial\ListBox\obj\Debug\ListBox.csproj.CoreCompileInputs.cache
+C:\Users\ricdo\OneDrive\Desktop\C# Aulas\Aula04_ListBox Inicial\ListBox\obj\Debug\ListBox.exe
+C:\Users\ricdo\OneDrive\Desktop\C# Aulas\Aula04_ListBox Inicial\ListBox\obj\Debug\ListBox.pdb
+D:\Programacao\C#\Aula04_ListBox Inicial\ListBox\bin\Debug\ListBox.exe.config
+D:\Programacao\C#\Aula04_ListBox Inicial\ListBox\bin\Debug\ListBox.exe
+D:\Programacao\C#\Aula04_ListBox Inicial\ListBox\bin\Debug\ListBox.pdb
+D:\Programacao\C#\Aula04_ListBox Inicial\ListBox\obj\Debug\ListBox.csproj.AssemblyReference.cache
+D:\Programacao\C#\Aula04_ListBox Inicial\ListBox\obj\Debug\ListBox.exe.config
+D:\Programacao\C#\Aula04_ListBox Inicial\ListBox\obj\Debug\ListBox.Form1.resources
+D:\Programacao\C#\Aula04_ListBox Inicial\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+D:\Programacao\C#\Aula04_ListBox Inicial\ListBox\obj\Debug\ListBox.csproj.GenerateResource.cache
+D:\Programacao\C#\Aula04_ListBox Inicial\ListBox\obj\Debug\ListBox.csproj.CoreCompileInputs.cache
+D:\Programacao\C#\Aula04_ListBox Inicial\ListBox\obj\Debug\ListBox.exe
+D:\Programacao\C#\Aula04_ListBox Inicial\ListBox\obj\Debug\ListBox.pdb
